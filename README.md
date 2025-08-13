@@ -96,14 +96,4 @@ It includes **filters** for Gender, Race/Ethnicity, Course, and Year, enabling d
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License – you are free to use, modify, and share.
-
----
-
-## 🙌 Acknowledgements
-
-- Built with ❤️ in Power BI
-- Icons from Power BI built-in visuals
-- Sample data for demonstration purposes
