@@ -1,5 +1,5 @@
 # 🎓 Student Enrollment Dashboard – Power BI
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=power-bi&logoColor=white)\
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=power-bi&logoColor=white)
 
 A visually interactive **Student Enrollment Summary View** built in **Power BI**, providing key insights into total enrollment, gender distribution, admission acceptance rates, disability representation, program popularity, and yearly trends.
 
